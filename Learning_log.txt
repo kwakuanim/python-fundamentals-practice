@@ -1,0 +1,3 @@
+I am learning Python.
+My goal is to apply data science to biomedical research.
+Today I am practicing writing and reading fil.
